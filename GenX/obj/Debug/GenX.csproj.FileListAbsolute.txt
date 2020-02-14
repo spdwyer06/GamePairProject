@@ -1,0 +1,6 @@
+C:\Eleven Fifty Projects\Gold Badge Projects\Game Pair Assignment\GenX\GenX\bin\Debug\GenX.exe.config
+C:\Eleven Fifty Projects\Gold Badge Projects\Game Pair Assignment\GenX\GenX\bin\Debug\GenX.exe
+C:\Eleven Fifty Projects\Gold Badge Projects\Game Pair Assignment\GenX\GenX\bin\Debug\GenX.pdb
+C:\Eleven Fifty Projects\Gold Badge Projects\Game Pair Assignment\GenX\GenX\obj\Debug\GenX.csprojAssemblyReference.cache
+C:\Eleven Fifty Projects\Gold Badge Projects\Game Pair Assignment\GenX\GenX\obj\Debug\GenX.exe
+C:\Eleven Fifty Projects\Gold Badge Projects\Game Pair Assignment\GenX\GenX\obj\Debug\GenX.pdb
