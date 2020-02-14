@@ -10,8 +10,6 @@ namespace GenX
     {
         public User user = new User();
 
-
-
        
         public void Run()
         {
@@ -88,9 +86,16 @@ namespace GenX
                     break;
                 //  instuctions submenu
                 case "2":
-                    Console.WriteLine("   Instrucions");
+                    Console.WriteLine("  Instructions");
                     Console.WriteLine("---------------");
-                    Console.WriteLine("instrucions eia;feiwajfeiaw");
+                    Console.WriteLine("You have 3 chances to score as many points as you can.\n" +
+                        "Beating harder difficulties grants more points.\n" +
+                        "Complete the game by guessing the correct number.\n" +
+                        "\n" +
+                        "Modes:\n" +
+                        "Easy -- Guess from numbers 1-10 -- 10 pts. for completion\n" +
+                        "Medium -- Guess from numbers 1-50 -- 50 pts. for completion\n" +
+                        "Hard -- Guess from numbers 1-100 -- 100 pts. for completion");
                     Console.WriteLine("---------------");
                     Console.WriteLine("Press any key to return to Main Menu...");
                     Console.ReadLine();
@@ -158,7 +163,7 @@ namespace GenX
             int randomNumber = randm.Next(1, 11);
 
             //  DELETE BEFORE DEPLOYMENT
-            Console.WriteLine("your random # " + randomNumber);
+            //Console.WriteLine("your random # " + randomNumber);
 
             // Displays attempts left above userInput prompt
             Console.WriteLine($"Attempts Left: {attemptsLeft}");
@@ -230,7 +235,7 @@ namespace GenX
             int randomNumber = randm.Next(1, 51);
 
             //  DELETE BEFORE DEPLOYMENT
-            Console.WriteLine("your random # " + randomNumber);
+            //Console.WriteLine("your random # " + randomNumber);
 
             // Displays attempts left above userInput prompt
             Console.WriteLine($"Attempts Left: {attemptsLeft}");
@@ -302,7 +307,7 @@ namespace GenX
             int randomNumber = randm.Next(1, 101);
 
             //  DELETE BEFORE DEPLOYMENT
-            Console.WriteLine("your random # " + randomNumber);
+            //Console.WriteLine("your random # " + randomNumber);
 
             // Displays attempts left above userInput prompt
             Console.WriteLine($"Attempts Left: {attemptsLeft}");
