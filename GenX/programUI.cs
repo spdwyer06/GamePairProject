@@ -307,7 +307,7 @@ namespace GenX
             int randomNumber = randm.Next(1, 101);
 
             //  DELETE BEFORE DEPLOYMENT
-            //Console.WriteLine("your random # " + randomNumber);
+            Console.WriteLine("your random # " + randomNumber);
 
             // Displays attempts left above userInput prompt
             Console.WriteLine($"Attempts Left: {attemptsLeft}");
